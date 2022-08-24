@@ -2,127 +2,127 @@
 const brownCards = [
   {
     id: 'brown1',
-    cardFace: 'brown1.png',
+    cardFace: 'brown1.webp',
     difficulty: 'normal',
     color:'brown'
   },
   {
     id: 'brown2',
-    cardFace: 'brown2.png',
+    cardFace: 'brown2.webp',
     difficulty: 'normal',
     color:'brown'
   },
   {
     id: 'brown3',
-    cardFace: 'brown3.png',
+    cardFace: 'brown3.webp',
     difficulty: 'normal',
     color:'brown'
   },
   {
     id: 'brown4',
-    cardFace: 'brown4.png',
+    cardFace: 'brown4.webp',
     difficulty: 'normal',
     color:'brown'
   },
   {
     id: 'brown5',
-    cardFace: 'brown5.png',
+    cardFace: 'brown5.webp',
     difficulty: 'normal',
     color:'brown'
   },
   {
     id: 'brown6',
-    cardFace: 'brown6.png',
+    cardFace: 'brown6.webp',
     difficulty: 'hard',
     color:'brown'
   },
   {
     id: 'brown7',
-    cardFace: 'brown7.png',
+    cardFace: 'brown7.webp',
     difficulty: 'hard',
     color:'brown'
   },
   {
     id: 'brown8',
-    cardFace: 'brown8.png',
+    cardFace: 'brown8.webp',
     difficulty: 'hard',
     color:'brown'
   },
   {
     id: 'brown9',
-    cardFace: 'brown9.png',
+    cardFace: 'brown9.webp',
     difficulty: 'hard',
     color:'brown'
   },
   {
     id: 'brown10',
-    cardFace: 'brown10.png',
+    cardFace: 'brown10.webp',
     difficulty: 'hard',
     color:'brown'
   },
   {
     id: 'brown11',
-    cardFace: 'brown11.png',
+    cardFace: 'brown11.webp',
     difficulty: 'easy',
     color:'brown'
   },
   {
     id: 'brown12',
-    cardFace: 'brown12.png',
+    cardFace: 'brown12.webp',
     difficulty: 'easy',
     color:'brown'
   },
   {
     id: 'brown13',
-    cardFace: 'brown13.png',
+    cardFace: 'brown13.webp',
     difficulty: 'easy',
     color:'brown'
   },
   {
     id: 'brown14',
-    cardFace: 'brown14.png',
+    cardFace: 'brown14.webp',
     difficulty: 'easy',
     color:'brown'
   },
   {
     id: 'brown15',
-    cardFace: 'brown15.png',
+    cardFace: 'brown15.webp',
     difficulty: 'normal',
     color:'brown'
   },
   {
     id: 'brown16',
-    cardFace: 'brown16.png',
+    cardFace: 'brown16.webp',
     difficulty: 'normal',
     color:'brown'
   },
   {
     id: 'brown17',
-    cardFace: 'brown17.png',
+    cardFace: 'brown17.webp',
     difficulty: 'normal',
     color:'brown'
   },
   {
     id: 'brown18',
-    cardFace: 'brown18.png',
+    cardFace: 'brown18.webp',
     difficulty: 'normal',
     color:'brown'
   },
   {
     id: 'brown19',
-    cardFace: 'brown19.png',
+    cardFace: 'brown19.webp',
     difficulty: 'normal',
     color:'brown'
   },
   {
     id: 'brown20',
-    cardFace: 'brown20.png',
+    cardFace: 'brown20.webp',
     difficulty: 'normal',
     color:'brown'
   },
   {
     id: 'brown21',
-    cardFace: 'brown21.png',
+    cardFace: 'brown21.webp',
     difficulty: 'easy',
     color:'brown'
   },
