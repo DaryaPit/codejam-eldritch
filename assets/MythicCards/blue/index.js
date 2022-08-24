@@ -1,15 +1,15 @@
-import blue1 from './blue1.png';
-import blue2 from './blue2.png';
-import blue3 from './blue3.png';
-import blue4 from './blue4.png';
-import blue5 from './blue5.png';
-import blue6 from './blue6.png';
-import blue7 from './blue7.png';
-import blue8 from './blue8.png';
-import blue9 from './blue9.png';
-import blue10 from './blue10.png';
-import blue11 from './blue11.png';
-import blue12 from './blue12.png';
+import blue1 from './blue1.webp';
+import blue2 from './blue2.webp';
+import blue3 from './blue3.webp';
+import blue4 from './blue4.webp';
+import blue5 from './blue5.webp';
+import blue6 from './blue6.webp';
+import blue7 from './blue7.webp';
+import blue8 from './blue8.webp';
+import blue9 from './blue9.webp';
+import blue10 from './blue10.webp';
+import blue11 from './blue11.webp';
+import blue12 from './blue12.webp';
 
 const cards = {
   blue1,
